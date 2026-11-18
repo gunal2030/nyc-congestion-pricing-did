@@ -1,0 +1,4 @@
+data/raw/*.parquet
+*.duckdb
+*.part
+__pycache__/
