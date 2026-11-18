@@ -30,7 +30,7 @@ On January 5, 2025, NYC began charging a per-trip fee for vehicles entering Manh
 - **Net effect: -1.2 points, rough 95% interval -2.6 to +0.9.**
 - Trips touching the zone were already falling relative to the rest of the city before the fee. A naive comparison would credit the fee with an effect that is mostly that drift.
 - Total weekly trips barely moved (about 4.4-4.9M a week in both spring 2024 and spring 2025).
-- [YOUR WORDS: one sentence on what you think this means.]
+- My read: a $1.50 surcharge on a trip that already costs $15–20 was probably too small to shift demand visibly, and the more useful result here is the methodological one — a naive year-over-year comparison would have sold an -8.4% effect that was mostly pre-existing drift, which is exactly what a control group exists to catch.
 
 ## How this could be wrong
 - **The placebo assumes the drift would have continued at the same rate into 2025.** If it faded or sped up, the net estimate shifts.
